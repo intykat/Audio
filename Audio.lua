@@ -1,4 +1,5 @@
 --intykat 2024
+--https://devforum.roblox.com/t/audiograph-a-module-that-manages-robloxs-new-audio-api-for-you/2872014
 local SoundService = game:GetService("SoundService")
 
 export type AudioProducerInstance = AudioPlayer | AudioDeviceInput | AudioListener
